@@ -3,4 +3,5 @@ Schrodinger equation for free particle solved using finite difference method, co
 
 
 You will find two files: 
-Schrondinger Equation
+schrodinger equation .sce
+schrodinger equation v3 .sce
